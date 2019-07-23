@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "cName": "Strahl",
+    "subject": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio eius, hic ipsum nesciunt nostrum nulla obcaecati? Aspernatur assumenda cum deserunt dolore doloribus exercitationem in laudantium maiores obcaecati quod vel, velit.",
+    "home": "Home",
+    "Language": "Language",
+    "Service": "Service",
+    "PartnersAndCustomers": "Partners and Customers",
+    "ContactUs": "Contact Us"
+  },
+  "aboutUs": {
+    "AboutUs": "About Us",
+    "subject": "So in case you were wondering what this is all about ...",
+    "objP": {
+      "obj1p": "Velocity is a free responsive",
+      "obj2p": "progressive site for you"
+    }
+
+  }
+}
