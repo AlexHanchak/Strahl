@@ -1,20 +1,108 @@
 {
   "nav": {
     "cName": "Strahl",
-    "subject": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio eius, hic ipsum nesciunt nostrum nulla obcaecati? Aspernatur assumenda cum deserunt dolore doloribus exercitationem in laudantium maiores obcaecati quod vel, velit.",
+    "subject1": "Extensive work experience contributes to the successful implementation of projects,",
+    "subject2": "which combines the use of modern materials and advanced construction technologies.",
     "home": "Home",
     "Language": "Language",
-    "Service": "Service",
-    "PartnersAndCustomers": "Partners and Customers",
-    "ContactUs": "Contact Us"
+    "English": "English",
+    "German": "German",
+    "Russian": "Русский",
+    "Ukrainian": "Українська",
+    "Service": "Services",
+    "PartnersAndCustomers": "Partners and Clients",
+    "ContactUs": "Contact us"
   },
   "aboutUs": {
-    "AboutUs": "About Us",
-    "subject": "So in case you were wondering what this is all about ...",
+    "AboutUs": "About us",
+    "subject": "Company Strahl  – is a reliable developer on the German market with over 10 years of history.",
     "objP": {
-      "obj1p": "Velocity is a free responsive",
-      "obj2p": "progressive site for you"
+      "obj1p": "We build comfortable and reasonable accommodation,",
+      "obj2p": "in which all the tiniest details are thought out."
+    },
+    "detailedInf":{
+      "Title": "Construction company \"Strahl\" was founded in 2008 by a group of ambitious professionals. We are engaged in the construction of commercial and residential buildings, as well as repair, sale and lease of commercial real estate. From the very beginning of the company, we build high-quality buildings taking into account all the needs of modern society using the latest construction technologies.",
+      "obj1": "Creating, for a relatively small and rather difficult time for the construction industry, three modern and cozy facilities with a total area of more than 15,000 square meters, allowed us to declare ourselves and take a worthy place among the developers. These homes are our business card, our pride, a vivid testimony to the fact that for real professionals there is no impediment to crises.",
+      "obj2": "Creation of comfortable for modern families of residential complexes is complex, labor-intensive and multidisciplinary. To build a modern home, you need to combine creative and modern technology. We treat with great responsibility all stages of this process. When choosing a construction site, we took into account all the needs of our buyers and their families. That is, next to our houses at a convenient distance are car parking, shops, kindergarten, school, public transport stops, park area and other facilities for an active but at the same time cozy living.",
+      "obj3": "The design of the houses was undertaken by the best architects in close cooperation with specialists from other industries - designers, psychologists, life safety specialists, Feng Shui experts and others. As a result, we got houses with a small number of apartments for which it is nice to watch. And accordingly, apartments in which it is convenient and comfortable to live. It combines simplicity, functionality, and all the needs of a modern family and personality. Apartments in which you want to come back. Let the problems of poor neighbors and redevelopment worry others.",
+      "obj4": "Particular attention was paid to building materials. We build only high-quality, reliable, environmentally friendly and energy-saving components. Therefore, all materials were procured only directly from producers, the quality and safety of which is confirmed by the corresponding certificates. The construction was carried out using modern technology, using modern equipment and highly qualified personnel.",
+      "obj5": "The management exercised control over the execution of works at all stages in order to prevent the violation of technologies and to ensure the high quality of construction and installation work. Having bought an apartment in the construction company \"Strahl\" \"you can be sure about the reliability of our home and do not think about major repairs for many years.",
+      "obj6": "Recently, the financing of apartments at an early stage of construction, which has a number of advantages:",
+      "p1": "1. Preferential terms for buying apartments: the price per square meter is considerably cheaper.",
+      "p2": "2. The choice of apartments, garages and premises for business is significantly higher.",
+      "p3": "3. At an early stage of construction it is possible to agree on individual planning of apartments and premises for business.",
+      "p4": "4. Possibility to purchase construction materials and materials for repairs at a discount from the developer.",
+      "p5": "5. Possibility of interior design and repair in the apartment by the developer, which is cheaper than the performance of repairs by private craftsmen, often of dubious quality."
+    },
+    "title": "Each project is implemented from the beginning to the end with high quality.",
+    "more": "More info"
+  },
+  "Service": {
+    "Service": "Services",
+    "Title": "Construction, Repair, and other services",
+    "Subject": "Clarity, speed and reliability",
+    "obj1": {
+      "Title": "HIGH CONSTRUCTION TEMP",
+      "Subject": "We use modern devices and tools, our specialists have many years of experience."
+    },
+    "obj2": {
+      "Title": "REPAIR \"AT THE KEY\"",
+      "Subject": "Restoration, renovation of the interior, changing the interior and many other services for the restoration of your home."
+    },
+    "obj3": {
+      "Title": "WARRANTIES OF QUALITY OF MATERIALS AND WORKS",
+      "Subject": "We cooperate with the best suppliers from all over the world, each facility is checked for all works."
+    },
+    "obj4": {
+      "Title": "THE BEST BEHAVIOR AND INFRASTRUCTURE",
+      "Subject": "Thanks to the experience of our designers and architects, we achieve a high level in all orders."
+    },
+    "obj5": {
+      "Title": "LOW DENSITY INSURANCE",
+      "Subject": "All client's wishes and wishes are taken into consideration, our architects provide advice and make informed decisions."
+    },
+    "obj6": {
+      "Title": "SOCIAL RESPONSIBILITY",
+      "Subject": "Each project is secured by a legal agreement, all materials, works, and orders are discussed before signing."
+    },
+    "Contact Us": "Contact us",
+    "More Info": "More info"
+  },
+  "Partners": {
+    "Title": "Partners and Clients",
+    "p1": {
+      "Title": "Pet shops",
+      "Subject": "A wide range of goods for all, the most common species, pets and aquarium fish.",
+      "Button": "Detailed information"
+    },
+    "p2": {
+      "Title": "Mozilla",
+      "Subject": "Mozilla creates browsers, applications, code and tools that put people in the best interest.",
+      "Button": "Detailed information"
+    },
+    "p3": {
+      "Title": "Авангард",
+      "Subject": "«Авангард» — multifunctional stadium in the Ukrainian city of Uzhhorod, with a capacity of 12,000 spectator seats.",
+      "Button": "Detailed information"
     }
 
+  },
+  "CONTACT US": {
+    "CONTACT US": "Contact us",
+    "Title": "Leave a message for more details",
+    "Subject": "Our administrators will contact you shortly.",
+    "Name": "Name",
+    "Email": "Email",
+    "Message": "Message",
+    "Send": "Send",
+    "Reset": "Reset",
+    "Mailing Address": "Mailing Address",
+    "Address": "Untitled Corp\n 1234 Somewhere Rd\n Nashville, TN 00000",
+    "Social": "Social",
+    "@untitled-corp": "@untitled-corp",
+    "linkedincom/untitled": "linkedin.com/untitled",
+    "facebookcom/untitled": "facebook.com/untitled",
+    "Email": "Email",
+    "Phone": "Phone"
   }
 }

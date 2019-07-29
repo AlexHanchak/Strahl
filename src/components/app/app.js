@@ -3,6 +3,7 @@ import {Route, Switch} from "react-router-dom";
 
 import {ToastsContainer, ToastsStore} from "react-toasts";
 import {alert} from '../../services';
+import 'bootswatch/dist/darkly/bootstrap.min.css';
 
 
 //components import
@@ -10,14 +11,16 @@ import AppHeader from '../app-header'; //сделать кнопки через 
 import AppMain from '../app-main'; //отдельная страница информации о компаниях, либо ссылки на сайты компаний
 // дописать фидбек отправка н почту
 //сделать вывод всех содружествинных компаний
-import AppDetailedInformation from '../app-detailed-information';
-import AppFooter from '../app-footer'
-
+import AppDetailedInformationAboutUs from "../app-detailed-information-about-us";
+import AppFooter from '../app-footer';
 
 //css app
+
 import '../../assets/css/main.css';
 import '../../assets/css/fontawesome-all.min.css';
 import './app.css';
+
+
 
 export default class App extends Component {
 
@@ -37,7 +40,7 @@ export default class App extends Component {
                 <main className="main mx-auto mt-2">
                     <Switch>
                         <Route exact path="/" component={AppMain}/>
-                        <Route exact path="/AppDetailedInformation" component={AppDetailedInformation}/>
+                        <Route path="/DetailedInfo" component={AppDetailedInformationAboutUs}/>
                     </Switch>
                 </main>
 

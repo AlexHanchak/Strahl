@@ -1,14 +1,108 @@
 {
   "nav": {
     "cName": "Strahl",
-    "subject": "De",
-    "home": "Home",
-    "Language": "Language",
-    "Service": "Service",
-    "PartnersAndCustomers": "Partners and Customers",
-    "ContactUs": "Contact Us"
+    "subject1": "Große Arbeitserfahrung trägt zur erfolgreichen Durchführung von Projekten bei,",
+    "subject2": "hier werden moderne Materialien und fortschrittliche Bautechnologien kombiniert.",
+    "home": "Zuhause",
+    "Language": "Sprachen",
+    "English": "English",
+    "German": "German",
+    "Russian": "Русский",
+    "Ukrainian": "Українська",
+    "Service": "Dienstleistungen",
+    "PartnersAndCustomers": "Partner und Kunden",
+    "ContactUs": "Sprechen Sie uns an"
   },
   "aboutUs": {
+    "AboutUs": "Über uns",
+    "subject": "Die Firma Strahl – ist ein zuverlässiger Entwickler auf dem deutschen Markt mit über 10 Jahren Geschichte.",
+    "objP": {
+      "obj1p": "Wir bauen komfortable und preiswerte Unterkünfte,",
+      "obj2p": "in dem alle kleinsten details durchdacht sind."
+    },
+    "detailedInf":{
+      "Title": "Das Bauunternehmen \"Strahl\" wurde 2008 von einer Gruppe ambitionierter Fachleute gegründet. Wir beschäftigen uns mit dem Bau von Gewerbe- und Wohngebäuden sowie der Reparatur, dem Verkauf und der Vermietung von Gewerbeimmobilien. Von Anfang an bauen wir hochwertige Gebäude unter Berücksichtigung aller Bedürfnisse der modernen Gesellschaft mit den neuesten Bautechnologien.",
+      "obj1": "Die Schaffung von drei modernen und gemütlichen Einrichtungen mit einer Gesamtfläche von mehr als 15.000 Quadratmetern für eine relativ kleine und für die Bauindustrie schwierige Zeit ermöglichte es uns, uns zu profilieren und einen würdigen Platz unter den Entwicklern einzunehmen. Diese Häuser sind unsere Visitenkarte, unser Stolz, ein anschauliches Zeugnis dafür, dass es für echte Profis kein Hindernis für Krisen gibt.",
+      "obj2": "Die Schaffung von Komfort für moderne Familien von Wohnkomplexen ist komplex, arbeitsintensiv und multidisziplinär. Um ein modernes Zuhause zu bauen, müssen Sie kreative und moderne Technologie kombinieren. Wir behandeln alle Phasen dieses Prozesses mit großer Verantwortung. Bei der Auswahl einer Baustelle haben wir alle Bedürfnisse unserer Einkäufer und ihrer Familien berücksichtigt. Das heißt, neben unseren Häusern in bequemer Entfernung befinden sich Parkplätze, Geschäfte, Kindergarten, Schule, Haltestellen des öffentlichen Nahverkehrs, Parkanlage und andere Einrichtungen für ein aktives und zugleich gemütliches Wohnen.",
+      "obj3": "Die Gestaltung der Häuser wurde von den besten Architekten in enger Zusammenarbeit mit Fachleuten aus anderen Branchen vorgenommen - Designern, Psychologen, Spezialisten für Lebenssicherheit, Feng Shui-Experten und anderen. Infolgedessen haben wir Häuser mit einer kleinen Anzahl von Wohnungen bekommen, für die es schön ist, zuzusehen. Und dementsprechend Wohnungen, in denen es bequem und komfortabel ist, zu leben. Es vereint Einfachheit, Funktionalität und alle Bedürfnisse einer modernen Familie und Persönlichkeit. Wohnungen, in die Sie zurückkehren möchten. Lassen Sie die Probleme armer Nachbarn und die Sanierung andere beunruhigen.",
+      "obj4": "Besonderes Augenmerk wurde auf Baustoffe gelegt. Wir bauen nur hochwertige, zuverlässige, umweltfreundliche und energiesparende Komponenten. Daher wurden alle Materialien nur direkt vom Hersteller bezogen, dessen Qualität und Sicherheit durch die entsprechenden Zertifikate bestätigt wird. Der Bau erfolgte mit modernster Technik, modernster Ausrüstung und hochqualifiziertem Personal.",
+      "obj5": "Die Geschäftsführung kontrollierte die Ausführung der Arbeiten in allen Phasen, um die Verletzung von Technologien zu verhindern und die hohe Qualität der Bau- und Installationsarbeiten sicherzustellen. Wenn Sie eine Wohnung in der Baufirma \"Strahl\" gekauft haben, können Sie sich auf die Zuverlässigkeit unseres Hauses verlassen und denken über viele Jahre nicht an größere Reparaturen.",
+      "obj6": "Vor kurzem hat die Finanzierung von Wohnungen in einem frühen Stadium des Baus, die eine Reihe von Vorteilen hat:",
+      "p1": "1. Vorzugskonditionen für den Kauf von Wohnungen: Der Quadratmeterpreis ist deutlich günstiger.",
+      "p2": "2. Die Auswahl an Wohnungen, Garagen und Geschäftsräumen ist deutlich höher.",
+      "p3": "3. In einem frühen Stadium der Bauarbeiten kann eine individuelle Planung von Wohnungen und Geschäftsräumen vereinbart werden.",
+      "p4": "4. Möglichkeit, Baumaterialien und Materialien für Reparaturen mit einem Rabatt vom Entwickler zu kaufen.",
+      "p5": "5. Möglichkeit der Innenarchitektur und Reparatur in der Wohnung durch den Entwickler, die billiger ist als die Durchführung von Reparaturen durch private Handwerker, oft von zweifelhafter Qualität."
+    },
+    "title": "Jedes Projekt wird von Anfang bis Ende mit hoher Qualität umgesetzt.",
+    "more": "Erfahren Sie mehr"
+  },
+  "Service": {
+    "Service": "Dienstleistungen",
+    "Title": "Bau, Reparatur und andere Dienstleistungen",
+    "Subject": "Klarheit, Geschwindigkeit und Zuverlässigkeit",
+    "obj1": {
+      "Title": "HOHE BAUTEMPERATUR",
+      "Subject": "Wir setzen moderne Geräte und Werkzeuge ein, unsere Spezialisten verfügen über langjährige Erfahrung."
+    },
+    "obj2": {
+      "Title": "\"AT THE KEY\" REPARIEREN",
+      "Subject": "Restaurierung, Renovierung des Innenraums, Änderung des Innenraums und viele andere Dienstleistungen für die Restaurierung Ihres Hauses."
+    },
+    "obj3": {
+      "Title": "GARANTIEN FÜR DIE QUALITÄT DER MATERIALIEN UND ARBEITEN",
+      "Subject": "Wir arbeiten mit den besten Lieferanten aus der ganzen Welt zusammen, jede Einrichtung wird auf alle Arbeiten überprüft."
+    },
+    "obj4": {
+      "Title": "DAS BESTE VERHALTEN UND DIE BESTE INFRASTRUKTUR",
+      "Subject": "Dank der Erfahrung unserer Designer und Architekten erreichen wir bei allen Aufträgen ein hohes Niveau."
+    },
+    "obj5": {
+      "Title": "VERSICHERUNG MIT NIEDRIGER DICHTE",
+      "Subject": "Alle Kundenwünsche und -wünsche werden berücksichtigt, unsere Architekten beraten und treffen fundierte Entscheidungen."
+    },
+    "obj6": {
+      "Title": "SOZIALE VERANTWORTUNG",
+      "Subject": "Jedes Projekt ist durch eine gesetzliche Vereinbarung abgesichert, alle Materialien, Arbeiten und Bestellungen werden vor der Unterzeichnung besprochen."
+    },
+    "Contact Us": "Sprechen Sie uns an",
+    "More Info": "Weitere Infos"
+  },
+  "Partners": {
+    "Title": "Partner und Kunden",
+    "p1": {
+      "Title": "Zoofachgeschäfte",
+      "Subject": "Eine breite Palette von Waren für alle, die häufigsten Arten, Haustiere und Aquarienfische.",
+      "Button": "Detaillierte Informationen"
+    },
+    "p2": {
+      "Title": "Mozilla",
+      "Subject": "Mozilla erstellt Browser, Anwendungen, Code und Tools, die die Menschen im besten Interesse bringen.",
+      "Button": "Detaillierte Informationen"
+    },
+    "p3": {
+      "Title": "Авангард",
+      "Subject": "«Авангард» — Multifunktionsstadion in der ukrainischen Stadt Uschhorod mit einer Kapazität von 12.000 Zuschauersitzen.",
+      "Button": "Detaillierte Informationen"
+    }
 
+  },
+  "CONTACT US": {
+    "CONTACT US": "Sprechen Sie uns an",
+    "Title": "Hinterlassen Sie eine Nachricht für weitere Details",
+    "Subject": "Unsere Administratoren werden Sie in Kürze kontaktieren.",
+    "Name": "Name",
+    "Email": "Elektronischer Briefkasten",
+    "Message": "Nachricht",
+    "Send": "Senden",
+    "Reset": "Abbrechen",
+    "Mailing Address": "Postanschrift",
+    "Address": "Untitled Corp\n 1234 Somewhere Rd\n Nashville, TN 00000",
+    "Social": "Soziale Seiten",
+    "@untitled-corp": "@untitled-corp",
+    "linkedincom/untitled": "linkedin.com/untitled",
+    "facebookcom/untitled": "facebook.com/untitled",
+    "Email": "E-Mail-Adresse",
+    "Phone": "Telefon"
   }
 }

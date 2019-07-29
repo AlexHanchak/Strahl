@@ -1,7 +1,7 @@
 import React, {Fragment} from 'react';
 import './app-baner.css';
 import { useTranslation } from 'react-i18next';
-
+import { Link } from 'react-router-dom';
 
 const AppBaner = () => {
 
@@ -16,11 +16,9 @@ const AppBaner = () => {
                     {t('aboutUs.objP.obj1p')}<br className="mobile-hide"/>
                     {t('aboutUs.objP.obj2p')}
                 </p>
-                <p className="style3">It's <strong>responsive</strong>, built
-                    on <strong>HTML5</strong> and <strong>CSS3</strong>, and released for use it for any of
-                    your personal or commercial projects &ndash; just be sure to credit us!</p>
+                <p className="style3">{t('aboutUs.title')}</p>
                 <ul className="actions">
-                    <li><a href="#" className="button style3 large">Proceed</a></li>
+                    <li><Link to="/DetailedInfo" className="button style3 large">{t('aboutUs.more')}</Link></li>
                 </ul>
             </div>
         </section>

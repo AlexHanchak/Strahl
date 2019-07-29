@@ -7,7 +7,7 @@ import App from './components/app';
 import ErrorBoundry from './components/error-boundry';
 
 import {FirebaseApp} from "./services/firebase-service";
-
+import 'bootstrap';
 
 import "./i18n";
 

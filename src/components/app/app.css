@@ -1,0 +1,17 @@
+*::-webkit-scrollbar {
+    display: none;
+    width: 0;
+}
+
+
+.main {
+    margin: 0;
+    width: inherit;
+}
+
+
+@media screen and (max-width: 300px) {
+    #body-id {
+        height: 100%;
+    }
+}
